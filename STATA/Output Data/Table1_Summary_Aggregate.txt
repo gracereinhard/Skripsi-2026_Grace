@@ -1,0 +1,16 @@
+Table 1: Summary Statistics for ASEAN-5 Manufacturing (2008-2022)						
+		(1)	(2)	(3)	(4)	(5)
+VARIABLES	LABELS	mean	sd	min	max	N
+						
+EI	Energy Intensity (Raw)	9.681	6.861	2.004	44.36	975
+lnEI	ln(Energy Intensity)	2.063	0.629	0.695	3.792	975
+S_EI	Energy Spillover	0.679	0.296	0.0467	1.606	975
+S_Tech	Tech Spillover	0.802	0.978	0.0132	7.713	975
+VA_per_Output	Value Added / Output	0.287	0.106	0.0463	0.638	975
+ln_Energy_Price	Relative Energy Price (ln)	-4.494	3.325	-19.88	-0.874	975
+Import_Share	Import Share	0.225	0.119	0.0378	0.657	975
+Service_Share	Service Share	0.162	0.0723	0.0335	0.426	975
+Energy_Price	Relative Energy Price (Raw)	0.0442	0.0609	2.32e-09	0.417	975
+						
+Note: Energy Intensity is measured in TJ per Million USD.						
+)						
